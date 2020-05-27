@@ -1,5 +1,5 @@
 # barebones_react
-A react up set up with create react app
+A react app set up without create react app
 
 Dependencies:
   - Babel (core, preset-env, preset-react)
